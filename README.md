@@ -1,6 +1,7 @@
-<div align=left><h2>Hi there 👋</h2></div>
-<div align=left><h2>📚 Teck STACKS</h2></div>
+<div align=left><h1>Welcome here 👋</h1></div>
+### Hi! I'm jongwon and developer who mainly deals with Java and Flutter
 
+<div align=left><h2>📚 Teck STACKS</h2></div>
 ### Main
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
