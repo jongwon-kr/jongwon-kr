@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align=center><h1>📚 My Main Stacks</h1></div>
+<div align=center><h1>📚 Main Stacks</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -13,7 +13,7 @@
   <img src="[https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)">
   
 </div>
-<div align=center><h1>My Sub Stacks</h1></div>
+<div align=center><h1>Sub Stacks</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
