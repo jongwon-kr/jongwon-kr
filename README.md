@@ -1,5 +1,5 @@
 <div align=left><h1>Welcome here 👋</h1></div>
-<div align=left><p>Hi! I'm jongwon and developer who mainly deals with Java and Flutter</p></div>
+<div align=left><span>Hi! I'm jongwon and developer who mainly deals with Java and Flutter</span></div>
 
 <div align=left;font-weight: bold; ><h2>📚 Teck STACKS</h2></div>
 ### Main
