@@ -28,4 +28,4 @@
 </div>
 
 ## My Develope History
-https://github.com/jongwon-kr/devhistorys/blob/main/README.md
+https://github.com/jongwon-kr/devhistorys
