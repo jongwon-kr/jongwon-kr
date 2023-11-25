@@ -27,5 +27,5 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 </div>
 
-## My Develope History
+## My Develope History(포트폴리오)
 https://github.com/jongwon-kr/devhistorys
