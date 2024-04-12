@@ -1,5 +1,4 @@
-<div align=left><h1>Welcome here 👋</h1></div>
-<div align=left><span>Hi! I'm jongwon and developer who mainly deals with Java, Spring Framework and Flutter</span></div>
+<div align=left><span>Java, dart를 주로 사용하는 주니어 백엔드 개발자입니다.</span></div>
 
 <div align=left;font-weight: bold; ><h2>📚 Tech STACKS</h2></div>
 <div align=left> 
