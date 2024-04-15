@@ -10,7 +10,7 @@
 </div>
 
 ### 개발 환경 및 툴
-[![myskill](https://skillicons.dev/icons?i=springboot,react,flutter,gcp,azure&perline=3)](https://skillicons.dev)
+[![myskill](https://skillicons.dev/icons?i=spring,react,flutter,gcp,azure&perline=3)](https://skillicons.dev)
 </div>
 
 ## My Develope History(포트폴리오)
