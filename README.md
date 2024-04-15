@@ -10,6 +10,7 @@
 </div>
 
 ### 개발 환경 및 툴
+<img src="https://img.shields.io/badge/#000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
