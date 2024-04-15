@@ -1,6 +1,8 @@
 <div align=left><span>Java, dart를 주로 사용하는 주니어 백엔드 개발자입니다.</span></div>
 
 <div align=left;font-weight: bold; ><h2>📚 Tech STACKS</h2></div>
+
+### Languages
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
