@@ -1,4 +1,4 @@
-<div align=left><span>Java, dart를 주로 사용하는 주니어 백엔드 개발자입니다.</span></div>
+<div align=left><span>Java(Springboot), dart를 주로 사용하는 주니어 백엔드 개발자입니다.</span></div>
 
 <div align=left;font-weight: bold; ><h2>📚 Tech STACKS</h2></div>
 
