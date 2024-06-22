@@ -1,5 +1,3 @@
-<div align=left><span>Java(Springboot), dart를 주로 사용하는 주니어 백엔드 개발자입니다.</span></div>
-
 <div align=left;font-weight: bold; ><h2>📚 Tech STACKS</h2></div>
 
 ### 언어
@@ -28,7 +26,3 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 </div>
-
-
-## My Develope History(포트폴리오)
-https://github.com/jongwon-kr/devhistorys
