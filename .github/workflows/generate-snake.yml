@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -10,10 +10,10 @@ on:
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
 
     steps:
       - name: Checkout code
@@ -40,12 +40,30 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch output branch and merge into main
+      - name: Fetch output branch and attempt to merge into main
         run: |
           git fetch origin output
           git checkout main
           git pull origin main
-          git merge origin/output --allow-unrelated-histories
+          git merge origin/output --allow-unrelated-histories || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Resolve merge conflicts
+        run: |
+          if git ls-files -u | grep -q '^'; then
+            echo "Merge conflicts detected. Resolving..."
+            git status
+            git add .
+            git commit -m "Resolve merge conflicts"
+          else
+            echo "No merge conflicts."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push changes to main branch
+        run: |
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
