@@ -37,9 +37,11 @@ jobs:
         
       - name: Merge output branch into main
         run: |
+          git fetch origin output
           git checkout main
           git pull origin main
-          git merge output --allow-unrelated-histories
+          git merge origin/output --allow-unrelated-histories
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
