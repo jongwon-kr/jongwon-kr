@@ -54,6 +54,12 @@
   <br>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
+  <img alt="AWS EC2" src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
+  <img alt="AWS EKS" src="https://img.shields.io/badge/EKS-FF9900?style=flat&logo=amazoneks&logoColor=white">
+  <img alt="AWS EC2" src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
+  <img alt="AWS EC2" src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
+  <img alt="AWS EC2" src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
+  <img alt="AWS EC2" src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
 </p>
 
 <br>
