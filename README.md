@@ -38,6 +38,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
+  <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white">
 </p>
 
 <br>
@@ -56,10 +57,8 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
   <img alt="AWS EC2" src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
   <img alt="AWS EKS" src="https://img.shields.io/badge/EKS-FF9900?style=flat&logo=amazoneks&logoColor=white">
-  <img alt="AWS EC2" src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
-  <img alt="AWS EC2" src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
-  <img alt="AWS EC2" src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
-  <img alt="AWS EC2" src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
+  <img alt="AWS RDS" src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white">
+  <img alt="AWS Route 53" src="https://img.shields.io/badge/Route 53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white">
 </p>
 
 <br>
