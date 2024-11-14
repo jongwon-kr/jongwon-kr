@@ -69,13 +69,13 @@
   <a href="https://github.com/jongwon-kr?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jongwon-kr&theme=buefy&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@jongwon-kr's github-readme-stats">
   </a>
-  <a href="https://github.com/jongwon-kr?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jongwon-kr&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-kr&theme=buefy&layout=compact" width="32.1%"/> 
   </a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-kr&theme=buefy&layout=compact" width="40%"/> 
+
 </p>  
 
 <br>
