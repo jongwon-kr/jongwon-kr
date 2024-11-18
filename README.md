@@ -66,10 +66,10 @@
 # 
 <p align="center">
   <a href="https://github.com/jongwon-kr?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=jongwon-kr&show_icons=true&theme=buefy" alt="@jongwon-kr's github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jongwon-kr&show_icons=true&theme=buefy" alt="@jongwon-kr's github-readme-stats" height="30%">
   </a>
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-kr&theme=buefy&layout=compact" width="35%/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-kr&theme=buefy&layout=compact" height="30%"/> 
   </a>
 </p>
 
