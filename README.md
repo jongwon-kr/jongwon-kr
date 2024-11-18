@@ -69,7 +69,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=jongwon-kr&show_icons=true&theme=buefy" alt="@jongwon-kr's github-readme-stats">
   </a>
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-kr&theme=buefy&layout=compact"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-kr&theme=buefy&layout=compact" width="35%/> 
   </a>
 </p>
 
