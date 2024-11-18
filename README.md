@@ -64,10 +64,9 @@
 <br> 
 
 # 
-
 <p align="center">
   <a href="https://github.com/jongwon-kr?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jongwon-kr&theme=buefy&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@jongwon-kr's github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jongwon-kr&show_icons=true&theme=buefy" width="45%" alt="@jongwon-kr's github-readme-stats">
   </a>
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-kr&theme=buefy&layout=compact" width="32.1%"/> 
