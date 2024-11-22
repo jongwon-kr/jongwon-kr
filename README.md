@@ -2,7 +2,7 @@
   <a href="https://github.com/jongwon-kr">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=FFD200&center=true&vCenter=true&width=435&lines=Hello!!;I'm+Jongwon;Welcome+to+my+GitHub" alt="Typing SVG" />
   </a>
-</div>
+</div> 
 
 <br>
 
