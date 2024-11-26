@@ -25,7 +25,7 @@
 
 <br>
 
-<h2 align="center">🛠️ Tech Stackss 🛠️</h2>
+<h2 align="center">🛠️ Tech Stacks 🛠️</h2>
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
