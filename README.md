@@ -60,21 +60,4 @@
   <img alt="AWS RDS" src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white">
   <img alt="AWS Route 53" src="https://img.shields.io/badge/Route 53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white">
 </p>
-
-<br> 
-
-# 
-<p align="center">
-  <a href="https://github.com/jongwon-kr?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=jongwon-kr&show_icons=true&theme=buefy" alt="@jongwon-kr's github-readme-stats" height="30%">
-  </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-kr&theme=buefy&layout=compact" height="30%"/> 
-  </a>
-</p>
-
-<p align="center">
-
-</p>  
-
 <br>
